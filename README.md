@@ -1,0 +1,2 @@
+# freqtrade
+I WANT FIRE
